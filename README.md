@@ -1,4 +1,4 @@
-# SQL Baseball Analytics
+# SQL Baseball Analytics project
 
 ## Overview
 This project analyzes baseball data using the Lahman Baseball Database.  
