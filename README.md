@@ -34,7 +34,7 @@ It focuses on player performance, career statistics, salary trends, and team-lev
 ---
 
 ## Dataset
-Lahman Baseball Database
+This project uses a subset of the Lahman Baseball Database (Maven Advanced SQL dataset), which contains historical baseball data including players, salaries, and schools.
 
 ---
 
